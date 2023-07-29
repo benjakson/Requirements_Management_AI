@@ -27,7 +27,10 @@ The automation process comprises two major steps:
 
 1. **Text Classification and Requirement Allocation in Action**:
 
-https://github.com/benjakson/Requirements_Management_AI/assets/124751174/28206db6-f12c-4940-a0a0-5ffdcf24855e
+
+https://github.com/benjakson/Requirements_Management_AI/assets/124751174/87ca8b8c-344d-40d9-a804-f6c79c76153e
+
+
 
 2. **Custom Neural Network Working**: 
 
