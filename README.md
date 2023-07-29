@@ -25,7 +25,7 @@ The automation process comprises two major steps:
 
 ## Demo Videos
 
-1. **Text Classification and Requirement Allocation in Action**: !(https://github.com/benjakson/Requirements_Management_AI/assets/124751174/28206db6-f12c-4940-a0a0-5ffdcf24855e)
+1. **Text Classification and Requirement Allocation in Action**: https://github.com/benjakson/Requirements_Management_AI/assets/124751174/28206db6-f12c-4940-a0a0-5ffdcf24855e
 
 2. **Custom Neural Network Working**: 
 
@@ -35,8 +35,10 @@ https://github.com/benjakson/Requirements_Management_AI/assets/124751174/234c1ab
 
 ## Model Images
 
-1. **AI Architecture Overview**: ![AI Architecture](link-<img width="407" alt="Screenshot 2023-07-29 at 3 32 47 PM" src="https://github.com/benjakson/Requirements_Management_AI/assets/124751174/13a95169-636f-412c-9764-ce9b6fbe539a">
-to-image1)
+1. **AI Architecture Overview**: ![AI Architecture]
+  
+   <img width="407" alt="Screenshot 2023-07-29 at 3 32 47 PM" src="https://github.com/benjakson/Requirements_Management_AI/assets/124751174/13a95169-636f-412c-9764-ce9b6fbe539a">
+
 
 <img width="875" alt="Screenshot 2023-07-29 at 3 32 16 PM" src="https://github.com/benjakson/Requirements_Management_AI/assets/124751174/314dcd42-4cee-4804-9ea5-9ddc0cac7745">
 
