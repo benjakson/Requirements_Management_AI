@@ -25,9 +25,11 @@ The automation process comprises two major steps:
 
 ## Demo Videos
 
-1. **Text Classification and Requirement Allocation in Action**: https://github.com/benjakson/Requirements_Management_AI/assets/124751174/28206db6-f12c-4940-a0a0-5ffdcf24855e
+1. **Text Classification and Requirement Allocation in Action**:
 
-2. **Custom Neural Network Working**: 
+https://github.com/benjakson/Requirements_Management_AI/assets/124751174/28206db6-f12c-4940-a0a0-5ffdcf24855e
+
+3. **Custom Neural Network Working**: 
 
 https://github.com/benjakson/Requirements_Management_AI/assets/124751174/234c1ab0-23d3-4900-9279-2abd5bab8214
 
