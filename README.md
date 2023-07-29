@@ -29,7 +29,7 @@ The automation process comprises two major steps:
 
 https://github.com/benjakson/Requirements_Management_AI/assets/124751174/28206db6-f12c-4940-a0a0-5ffdcf24855e
 
-3. **Custom Neural Network Working**: 
+2. **Custom Neural Network Working**: 
 
 https://github.com/benjakson/Requirements_Management_AI/assets/124751174/234c1ab0-23d3-4900-9279-2abd5bab8214
 
@@ -37,7 +37,7 @@ https://github.com/benjakson/Requirements_Management_AI/assets/124751174/234c1ab
 
 ## Model Images
 
-1. **AI Architecture Overview**: ![AI Architecture]
+1. **AI Architecture Overview**:
   
    <img width="407" alt="Screenshot 2023-07-29 at 3 32 47 PM" src="https://github.com/benjakson/Requirements_Management_AI/assets/124751174/13a95169-636f-412c-9764-ce9b6fbe539a">
 
@@ -51,7 +51,7 @@ https://github.com/benjakson/Requirements_Management_AI/assets/124751174/234c1ab
 
 For inquiries or more information about this project and the AI-driven text classification and requirement allocation system, please reach out to the Kiewit team.
 
-For more information about Kiewit and our projects, visit our [website](https://www.kiewit.com/).
+For more information about Kiewit and their projects, visit [website](https://www.kiewit.com/).
 
 ---
 *Disclaimer: This repository showcases the project's description and high-level overview. The actual source code and implementation details are not included here due to proprietary reasons and company policies.*
