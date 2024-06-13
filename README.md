@@ -40,18 +40,6 @@ https://github.com/benjakson/Requirements_Management_AI/assets/124751174/234c1ab
 
 
 
-## Model Images
-
-1. **AI Architecture Overview**:
-  
-   <img width="407" alt="Screenshot 2023-07-29 at 3 32 47 PM" src="https://github.com/benjakson/Requirements_Management_AI/assets/124751174/13a95169-636f-412c-9764-ce9b6fbe539a">
-
-
-<img width="875" alt="Screenshot 2023-07-29 at 3 32 16 PM" src="https://github.com/benjakson/Requirements_Management_AI/assets/124751174/314dcd42-4cee-4804-9ea5-9ddc0cac7745">
-
-
-
-
 ## Contact
 
 For inquiries or more information about this project and the AI-driven text classification and requirement allocation system, please reach out to the Kiewit team.
